@@ -1,0 +1,16 @@
+<salesman_addinfo>
+     <salesman id="23">
+        <name> Jhon carter </name>
+        <admission_date> 25/12/2015 </admission_date>
+     </salesman>
+
+     <salesman id="29">
+        <name> Bob Marshal</name>
+        <admission_date> 13/01/1999 </admission_date>
+     </salesman>
+
+     <salesman id="35">
+        <name> Clark Kent </name>
+        <admission_date> 17/06/2005 </admission_date>
+     </salesman>
+</salesman_addinfo>

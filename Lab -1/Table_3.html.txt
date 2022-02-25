@@ -1,0 +1,22 @@
+<salesman_salinfo>
+     <salesman id="1">
+        <name> Jhon Doe </name>
+        <adddress> H#38, R#3, Banani, Dhaka </address>
+        <department> Sales </department>
+        <salary> 20000 </salary>
+     </salesman>
+
+     <salesman id="2">
+        <name> Mark ukckerberg</name>
+        <adddress> Flat#A/1, H#20, R#18, Mirpur, Dhaka </address>
+        <department> Accounts </department>
+        <salary> 12000 </salary>
+     </salesman>
+
+     <salesman id="3">
+        <adddress> H#38, R#3, Motijheel </address>
+        <department> Human Resource </department>
+        <salary> 30000 </salary>
+     </salesman>
+
+</salesman_salinfo>
