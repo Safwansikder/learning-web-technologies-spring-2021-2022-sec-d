@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title>First Html Site</title>
+</head>
+<body>
+
+		<table border="1" width="100%">
+			<tr height="50px">
+			  
+			  <td colspan="3"align ="center"> <h1 > First HTML Site </h1> </td>
+			  
+			</tr>
+			
+			<tr height="200px">
+				<td width="100px">
+				  <h4>Links</h4>
+				  <ul>
+				    <li><a href="page1.html">Page-1</a></li>
+				    <li><a href="page2.html">Page-2</a></li>
+				  </ul>
+				</td>
+				<td width="300px">
+					<h3 align="">Page-1<h3/>
+					<h6>I am at Page-1</h6>
+				</td>
+				<td width="100px" align="">
+				  <ul>
+				    <li><a href="https://www.google.com/">Google</a></li>
+				    <li><a href="https://www.yahoo.com/">Yahoo</a></li>
+				    <li><a href="https://www.microsoft.com/en-us/">Microsoft</a></li>
+				  </ul>
+				</td>
+			</tr>
+			<tr height="30px">
+				<td colspan="3" align="center"> copyright</td>
+			</tr>
+		</table>
+</body>
+</html>
