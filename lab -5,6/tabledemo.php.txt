@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+</style>
+<body>
+
+<table style="width:60%" align ="center"> 
+  <tr style ="height:55px">
+    <th><p align="left">Xcompany</p> <div align="right"><a href="home.php" >Home |</a> 
+	<a href="login.php">Login |</a> 
+	<a href="reg.php">Registration </a> 
+	</th>
+	
+  </tr>
+  <tr style="height:200px">
+  <td><p>welcome to xCompnay</p> </td>
+  </tr>
+  <tr style="height:35px">
+    <td align ="center">Copyright &copy 2017</td>
+  </tr>
+</table>
+
+</body>
+</html>

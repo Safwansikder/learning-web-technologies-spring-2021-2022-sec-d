@@ -1,0 +1,23 @@
+<?php	
+	session_start();
+
+	if(isset($_REQUEST['submit'])){
+		
+		$name = $_POST['name'];
+		$email = $_POST['username'];
+		$username = $_POST['username'];
+		$password = $_POST['password'];
+		$conpassword = $_POST['conpassword'];
+		$gender = $_POST['gender'];
+		$dob = $_POST['dob'];
+
+		if($name != null && $email != null && $username != null &&  $password != null && $conpassword != null && $gender != null && $dob != null){
+			$user = ['username'=> $username, 'password'=>$password, 'email'=> $email];
+			$_SESSION['user'] = $user;
+			header('location: login.php');
+		}else{
+			echo "null submission";
+		}
+	}
+
+?>
